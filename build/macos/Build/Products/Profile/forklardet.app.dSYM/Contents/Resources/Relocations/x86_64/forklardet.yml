@@ -1,0 +1,19 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/rasmusjensing/StudioProjects/ForklarDet/build/macos/Build/Products/Profile/forklardet.app/Contents/MacOS/forklardet'
+relocations:
+  - { offsetInCU: 0x27, offset: 0xC9397, size: 0x8, addend: 0x0, symName: '_$s10forklardet17MainFlutterWindowC12awakeFromNibyyFTo', symObjAddr: 0x0, symBinAddr: 0x1000015D0, symSize: 0xF0 }
+  - { offsetInCU: 0x61, offset: 0xC93D1, size: 0x8, addend: 0x0, symName: '_$s10forklardet17MainFlutterWindowC12awakeFromNibyyFTo', symObjAddr: 0x0, symBinAddr: 0x1000015D0, symSize: 0xF0 }
+  - { offsetInCU: 0xF9, offset: 0xC9469, size: 0x8, addend: 0x0, symName: '_$s10forklardet17MainFlutterWindowC11contentRect9styleMask7backing5deferACSo6CGRectV_So013NSWindowStyleH0VSo18NSBackingStoreTypeVSbtcfcTo', symObjAddr: 0xF0, symBinAddr: 0x1000016C0, symSize: 0x80 }
+  - { offsetInCU: 0x172, offset: 0xC94E2, size: 0x8, addend: 0x0, symName: '_$s10forklardet17MainFlutterWindowCMa', symObjAddr: 0x1A0, symBinAddr: 0x100001770, symSize: 0x14 }
+  - { offsetInCU: 0x3B7, offset: 0xC9727, size: 0x8, addend: 0x0, symName: '_$s10forklardet17MainFlutterWindowCfD', symObjAddr: 0x170, symBinAddr: 0x100001740, symSize: 0x30 }
+  - { offsetInCU: 0x27, offset: 0xC9771, size: 0x8, addend: 0x0, symName: '_$s10forklardet11AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x0, symBinAddr: 0x100001790, symSize: 0x10 }
+  - { offsetInCU: 0x4B, offset: 0xC9795, size: 0x8, addend: 0x0, symName: '_$s10forklardet11AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x0, symBinAddr: 0x100001790, symSize: 0x10 }
+  - { offsetInCU: 0x7D, offset: 0xC97C7, size: 0x8, addend: 0x0, symName: '_$s10forklardet11AppDelegateCACycfcTo', symObjAddr: 0x10, symBinAddr: 0x1000017A0, symSize: 0x30 }
+  - { offsetInCU: 0xD1, offset: 0xC981B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x70, symBinAddr: 0x100001800, symSize: 0x10 }
+  - { offsetInCU: 0xEF, offset: 0xC9839, size: 0x8, addend: 0x0, symName: '_$s10forklardet11AppDelegateCMa', symObjAddr: 0x80, symBinAddr: 0x100001810, symSize: 0x14 }
+  - { offsetInCU: 0x1F0, offset: 0xC993A, size: 0x8, addend: 0x0, symName: '_$s10forklardet11AppDelegateCfD', symObjAddr: 0x40, symBinAddr: 0x1000017D0, symSize: 0x30 }
+  - { offsetInCU: 0x2B, offset: 0xC999A, size: 0x8, addend: 0x0, symName: '_$s10forklardet19ResourceBundleClass33_C21DCCF5D9B255515F712169F2BB37C3LLCfD', symObjAddr: 0x0, symBinAddr: 0x100001830, symSize: 0x20 }
+  - { offsetInCU: 0x6D, offset: 0xC99DC, size: 0x8, addend: 0x0, symName: '_$s10forklardet19ResourceBundleClass33_C21DCCF5D9B255515F712169F2BB37C3LLCMa', symObjAddr: 0x20, symBinAddr: 0x100001850, symSize: 0x14 }
+  - { offsetInCU: 0x13B, offset: 0xC9AAA, size: 0x8, addend: 0x0, symName: '_$s10forklardet19ResourceBundleClass33_C21DCCF5D9B255515F712169F2BB37C3LLCfD', symObjAddr: 0x0, symBinAddr: 0x100001830, symSize: 0x20 }
+...

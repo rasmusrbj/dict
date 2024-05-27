@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "b39ad7c12e431fa16b3a0ae38806419ea5d7fc9448cd30f01586133fbaa8f67b"
+build_start_time: [1716755944, 160474000]
+build_end_time: [1716755948, 562131000]
+inputs:
+  ? "/Users/rasmusjensing/StudioProjects/ForklarDet/build/macos/Build/Intermediates.noindex/Runner.build/Profile/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1716755944, 128868006]
+  "/Users/rasmusjensing/StudioProjects/ForklarDet/macos/Flutter/GeneratedPluginRegistrant.swift": [1716755910, 168278488]
+  "/Users/rasmusjensing/StudioProjects/ForklarDet/macos/Runner/AppDelegate.swift": [1701884907, 0]
+  "/Users/rasmusjensing/StudioProjects/ForklarDet/macos/Runner/MainFlutterWindow.swift": [1701884907, 0]
